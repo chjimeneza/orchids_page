@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "./static/css/main.e28ac046.css",
-    "main.js": "./static/js/main.b254ab73.js",
-    "static/js/453.e616926d.chunk.js": "./static/js/453.e616926d.chunk.js",
-    "static/media/orchids_image.jpg": "./static/media/orchids_image.b0c77ae6a97e7c1f9601.jpg",
-    "index.html": "./index.html",
-    "main.e28ac046.css.map": "./static/css/main.e28ac046.css.map",
-    "main.b254ab73.js.map": "./static/js/main.b254ab73.js.map",
-    "453.e616926d.chunk.js.map": "./static/js/453.e616926d.chunk.js.map"
+    "main.css": "/chjimeneza/orchids_page/static/css/main.e28ac046.css",
+    "main.js": "/chjimeneza/orchids_page/static/js/main.bed3f73a.js",
+    "static/js/453.e616926d.chunk.js": "/chjimeneza/orchids_page/static/js/453.e616926d.chunk.js",
+    "static/media/orchids_image.jpg": "/chjimeneza/orchids_page/static/media/orchids_image.b0c77ae6a97e7c1f9601.jpg",
+    "index.html": "/chjimeneza/orchids_page/index.html",
+    "main.e28ac046.css.map": "/chjimeneza/orchids_page/static/css/main.e28ac046.css.map",
+    "main.bed3f73a.js.map": "/chjimeneza/orchids_page/static/js/main.bed3f73a.js.map",
+    "453.e616926d.chunk.js.map": "/chjimeneza/orchids_page/static/js/453.e616926d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e28ac046.css",
-    "static/js/main.b254ab73.js"
+    "static/js/main.bed3f73a.js"
   ]
 }

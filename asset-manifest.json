@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/orchids_page/static/css/main.e28ac046.css",
-    "main.js": "/orchids_page/static/js/main.3509f471.js",
+    "main.css": "/orchids_page/static/css/main.ce2f1cef.css",
+    "main.js": "/orchids_page/static/js/main.859a35e1.js",
     "static/js/453.e616926d.chunk.js": "/orchids_page/static/js/453.e616926d.chunk.js",
-    "static/media/orchids_image.jpg": "/orchids_page/static/media/orchids_image.b0c77ae6a97e7c1f9601.jpg",
+    "static/media/orchids_image.jpg": "/orchids_page/static/media/orchids_image.827e8ef52589aef1595c.jpg",
     "index.html": "/orchids_page/index.html",
-    "main.e28ac046.css.map": "/orchids_page/static/css/main.e28ac046.css.map",
-    "main.3509f471.js.map": "/orchids_page/static/js/main.3509f471.js.map",
+    "main.ce2f1cef.css.map": "/orchids_page/static/css/main.ce2f1cef.css.map",
+    "main.859a35e1.js.map": "/orchids_page/static/js/main.859a35e1.js.map",
     "453.e616926d.chunk.js.map": "/orchids_page/static/js/453.e616926d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e28ac046.css",
-    "static/js/main.3509f471.js"
+    "static/css/main.ce2f1cef.css",
+    "static/js/main.859a35e1.js"
   ]
 }
